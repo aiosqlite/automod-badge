@@ -1,0 +1,2 @@
+# lavish
+discord  automod badge
